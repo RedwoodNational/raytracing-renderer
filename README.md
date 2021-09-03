@@ -1,1 +1,1 @@
-![Alt Text](https://github.com/curlysilk53/turing-machine/blob/master/demo_scene.gif)
+![Alt Text](https://github.com/curlysilk53/raytracing-renderer/blob/master/demo_scene.gif)
